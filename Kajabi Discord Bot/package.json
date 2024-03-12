@@ -1,0 +1,21 @@
+{
+  "name": "vibe-bot",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Vibe",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.6.7",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.5",
+    "glob": "^10.3.10",
+    "mongoose": "^8.2.0"
+  }
+}
